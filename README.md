@@ -13,9 +13,9 @@ Against another human
 1. Make sure you have python version 3.6 or higher installed
 2. Download the connectfour_human.py file
 3. Go to command prompt and run the py file
-4. Enjoy the game against AI
+4. Enjoy the game against your friend
 
 
 
 
-PS: It is difficult to win :)
+PS: It is difficult to win but you can easily win against your friend :)
